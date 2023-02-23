@@ -1,1 +1,1 @@
-# Is training necessary to detect deepfakes? A preliminary study.
+# Is training useful to detect deepfakes? A preliminary study.
