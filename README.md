@@ -13,6 +13,7 @@ Generative Adversarial Networks (GANs) constitute a significant breakthrough due
 
 Table of Contents
 =================
+In the data.xlsx file you will find different sheets with all the information concerning the id of the images and the participants of both groups.
 
 
 
