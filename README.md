@@ -15,6 +15,15 @@ Table of Contents
 =================
 In the data.xlsx file you will find different sheets with all the information concerning the id of the images and the participants of both groups.
 
+The face database consists of 480 images, distributed in the following folders:
+- R.F.Adults: real images of adult women
+- R.F.Minors: real images of minor women
+- R.M.Adults: real images of adult men
+- R.M.Minors: real images of minor men
+- S.F.Adults: synthetic images of adult women
+- S.F.Minors: synthetic images of minor women
+- S.M.Adults: synthetic images of adult men
+- S.M.Minors: synthetic images of minor men
 
 
 Contact Information
